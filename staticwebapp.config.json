@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "redirect": "https://x.y.z/innerlink",
+      "statusCode": 301
+    }
+  ]
+}
